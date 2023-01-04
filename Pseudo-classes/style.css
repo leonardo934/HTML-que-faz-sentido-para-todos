@@ -2,3 +2,12 @@ ul h3:first-child {
     font-weight: bold;
     color: red;
 }
+
+
+
+
+article p:nth-of-type(2) {
+    font-weight: bold;
+    font-size: 18px;
+}
+
