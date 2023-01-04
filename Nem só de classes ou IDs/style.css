@@ -11,3 +11,15 @@ body article h2 {
 #dois > ul > li{
     color: blue;
 }
+
+
+
+h1 ~ p {
+	color: red;
+}
+
+button ~ button {
+    margin-left: 32px;
+}
+
+
