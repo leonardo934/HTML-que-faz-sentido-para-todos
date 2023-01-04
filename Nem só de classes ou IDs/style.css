@@ -8,7 +8,7 @@ body article h2 {
 
 
 
-#dois > ul > li{
+body > ul > li{
     color: blue;
 }
 
@@ -23,3 +23,6 @@ button ~ button {
 }
 
 
+.red {
+    color: red;
+}
