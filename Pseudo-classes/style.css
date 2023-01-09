@@ -23,3 +23,13 @@ ul li:nth-child(even) {
     color: blue;
   }
   
+
+  a:hover{
+    color: darkslategrey;
+  }
+
+  
+  input:focus {
+    border-color: rgb(255, 255, 255);
+    outline: none;
+  }
