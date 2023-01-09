@@ -34,3 +34,8 @@ ul li:nth-child(even) {
     outline: none;
     background-color:lightgreen;
   }
+
+
+  li::before {
+    content: ":> oiiiiiiiii tudo bom? "
+  }
