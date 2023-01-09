@@ -30,6 +30,7 @@ ul li:nth-child(even) {
 
   
   input:focus {
-    border-color: rgb(255, 255, 255);
+    border-color: white;
     outline: none;
+    background-color:lightgreen;
   }
