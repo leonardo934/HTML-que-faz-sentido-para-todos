@@ -17,3 +17,9 @@ article h3:nth-child(1) {
     font-size: 18px;
     color: green;
 }
+
+
+ul li:nth-child(even) {
+    color: blue;
+  }
+  
