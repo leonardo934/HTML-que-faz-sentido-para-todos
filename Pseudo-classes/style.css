@@ -39,3 +39,7 @@ ul li:nth-child(even) {
   li::before {
     content: ":> oiiiiiiiii tudo bom? "
   }
+
+  p:nth-of-type(2)::first-line {
+    font-weight: bold;
+  }
