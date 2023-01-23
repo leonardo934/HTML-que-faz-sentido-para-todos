@@ -23,8 +23,10 @@ height: 80vh;
 
 
 
-.item {
+.itemdois {
     background-color: gray;
     border: 1px solid red;
     flex: 1;
 }
+
+
