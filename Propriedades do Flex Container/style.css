@@ -20,7 +20,27 @@
 
 
 
-.box div {
+.boxdois div {
+    border: 1px solid;
+
+    width: 80px;
+}
+
+
+.boxdois {
+    display: flex;
+
+flex-flow: column-reverse wrap-reverse;
+
+    border: 1px dashed blue;
+}
+
+
+
+
+
+
+.boxdois div {
     border: 1px solid;
 
     width: 80px;
