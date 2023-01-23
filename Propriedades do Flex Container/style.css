@@ -90,3 +90,24 @@ justify-content: space-evenly;
     border: 1px solid;
 
 }
+
+
+
+
+.boxcinco {
+    display: flex;
+
+    border: 1px dashed brown ;
+
+gap: 2rem;
+}
+
+
+
+
+
+
+.boxcinco div {
+    border: 1px solid;
+
+}
