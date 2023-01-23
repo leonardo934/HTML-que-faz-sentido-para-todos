@@ -68,3 +68,25 @@ flex-flow: column-reverse wrap-reverse;
     border: 1px solid;
 
 }
+
+.boxquatro {
+    display: flex;
+
+    flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+
+
+    height: 1500px;
+    border: 1px dashed purple ;
+}
+
+
+
+
+
+
+.boxquatro div {
+    border: 1px solid;
+
+}
