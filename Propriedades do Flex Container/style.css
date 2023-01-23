@@ -32,7 +32,7 @@
 
 flex-flow: column-reverse wrap-reverse;
 
-    border: 1px dashed blue;
+    border: 1px dashed red;
 }
 
 
@@ -44,4 +44,27 @@ flex-flow: column-reverse wrap-reverse;
     border: 1px solid;
 
     width: 80px;
+}
+
+
+
+.boxtres {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+
+    height: 150px;
+    border: 1px dashed green;
+}
+
+
+
+
+
+
+.boxtres div {
+    border: 1px solid;
+
 }
