@@ -2,3 +2,26 @@
     display: flex;
     flex-direction: column-reverse;
 }
+
+
+
+
+
+.box {
+    display: flex;
+    flex-wrap: wrap-reverse;
+
+
+    border: 1px dashed blue;
+}
+
+
+
+
+
+
+.box div {
+    border: 1px solid;
+
+    width: 80px;
+}
