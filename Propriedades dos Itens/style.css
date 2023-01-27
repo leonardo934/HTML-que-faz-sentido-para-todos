@@ -1,6 +1,6 @@
 .box {
     display: flex;
-flex-direction: column;
+    flex-direction: column;
 
 
     border: 1px dashed red;
@@ -46,18 +46,18 @@ flex-direction: column;
 }
 
 
-.boxdois div:nth-child(1), 
+.boxdois div:nth-child(1),
 .boxdois div:nth-child(26) {
-flex-grow: 1;
+    flex-grow: 1;
 }
 
 
 
-.boxtres{
+.boxtres {
     display: flex;
     flex-direction: column;
     border: 1px dashed green;
-    
+
     height: 829px;
 }
 
@@ -65,8 +65,8 @@ flex-grow: 1;
 
 .boxtres div {
 
-flex-basis: 80px;
-border:1px solid;
+    flex-basis: 80px;
+    border: 1px solid;
 
 }
 
@@ -74,7 +74,26 @@ border:1px solid;
 .boxtres div:nth-child(12),
 .boxtres div:nth-child(13),
 .boxtres div:nth-child(14),
-.boxtres div:nth-child(15)
-{
-flex-shrink: 4;
+.boxtres div:nth-child(15) {
+    flex-shrink: 4;
+}
+
+
+
+
+.boxquatro {
+    display: flex;
+
+    border: 1px dashed orangered;
+
+    width: 829px;
+}
+
+
+
+.boxquatro div {
+
+flex: 1 1 40px;
+    border: 1px solid;
+
 }
