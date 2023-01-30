@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    justify-content: center;
+    gap: .4rem;
+}
+
+
+
+button{
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    line-height: 0;
+}
+
+
+
+
+
+
+img{
+    height: 20px;
+    width: 20px;
+   justify-content: center;
+}
+
